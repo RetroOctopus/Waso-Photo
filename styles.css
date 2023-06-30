@@ -140,28 +140,28 @@ footer {
 }
 
 .beauty {
-  background: url(weddingphotos/beauty-header.JPG);
+  background: url(thumbnails/beauty-header-tn.JPG);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .adventure {
-  background: url(weddingphotos/adventure-header.JPG);
+  background: url(thumbnails/adventure-header-tn.JPG);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .tradition {
-  background: url(weddingphotos/tradition-header.JPG);
+  background: url(thumbnails/tradition-header-tn.JPG);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .family {
-  background: url(weddingphotos/family-header.JPG);
+  background: url(thumbnails/family-header-tn.JPG);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
